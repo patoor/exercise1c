@@ -14,5 +14,8 @@ subprojects {
 	repositories {
 		// Standardowe repozytorium: http://repo1.maven.org/maven2/
 	    mavenCentral()
+	
+
 	}
+
 }
